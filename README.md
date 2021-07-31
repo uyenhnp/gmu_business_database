@@ -52,4 +52,5 @@ All the information about the relational database design and SQL queries (create
 
 ### 4.  **Data Visualization**
 Please access this [link](https://public.tableau.com/app/profile/uyen.huynh4317/viz/GMU_business/Story1) to see the dashboards which visualize the business distribution, the most popular businesses and the closest restaurants around the GMU campus.
-![Tableau](thumbnail_md.png)
+
+![Tableau](https://github.com/uyenhnp/gmu_business_database/blob/master/gmu_business_review.gif)
